@@ -1,10 +1,10 @@
-# covid-19-sl
-This is a simple website created using React.js to display covid 19 related data of Sri Lanka. This project uses Redux to store data locally.
+# Covid-19-sl Dashboard
+This is a simple website created using React.js to display covid 19 related data in Sri Lanka. Main objective of the project is to show how Redux can be used to store data locally in a React application.
 
 The website fetches statistical data from the API provided by Health Promotion Bureau, Sri Lanka ([click here](http://hpb.health.gov.lk/api-documentation)) and desease related information is from the WHO official website.
 
 ### Components
- - Home Page
+ - Home Page (not developed)
  - Info Page
  - Statistics Page
  - About Us Page
