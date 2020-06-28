@@ -9,3 +9,8 @@ The website fetches statistical data from the API provided by Health Promotion B
  - Statistics Page
  - About Us Page
  
+### How to Run
+Execute the command `npm start` in the project home directory.
+
+### Note
+Home page should be developed adding new components according to the requirements.
